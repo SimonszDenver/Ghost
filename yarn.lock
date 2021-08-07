@@ -6010,6 +6010,24 @@ knex@0.21.19:
     tildify "2.0.0"
     v8flags "^3.2.0"
 
+knex@0.21.20:
+  version "0.21.20"
+  resolved "https://registry.yarnpkg.com/knex/-/knex-0.21.20.tgz#d208baaa0839d7dd8ebecee2d785d09689da0c66"
+  integrity sha512-UmAVM0WeLQyyQIHQXCdRJApjkVN18MkX+TXpTL38n9JI6QRIRbaKT1RnIJSvosZQlJu5OpTSWRft4wuJhC+SVQ==
+  dependencies:
+    colorette "1.2.1"
+    commander "^6.2.0"
+    debug "4.3.1"
+    esm "^3.2.25"
+    getopts "2.2.5"
+    interpret "^2.2.0"
+    liftoff "3.1.0"
+    lodash "^4.17.20"
+    pg-connection-string "2.4.0"
+    tarn "^3.0.1"
+    tildify "2.0.0"
+    v8flags "^3.2.0"
+
 knex@^0.20:
   version "0.20.15"
   resolved "https://registry.yarnpkg.com/knex/-/knex-0.20.15.tgz#b7e9e1efd9cf35d214440d9439ed21153574679d"
